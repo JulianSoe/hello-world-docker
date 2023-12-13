@@ -14,5 +14,5 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
           issue-message: "Thanks for your feedback and effort"
           pr-message: "Well, well, well"
-          push-message: "Super push"
+
 
